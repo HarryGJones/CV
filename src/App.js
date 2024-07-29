@@ -39,7 +39,7 @@ function App() {
             <br></br>
             <ol>
               GitHub:
-              <a href="https://github.com/HarryGJones/HarryGJones">
+              <a href="https://github.com/HarryGJones/">
                 My GitHub Portfolio
               </a>
             </ol>
@@ -136,6 +136,7 @@ function App() {
             <li>JavaScript</li>
             <li>React</li>
             <li>Node.js</li>
+            <li>Git - GitHub</li>
             <li>GML (GameMaker Language)</li>
             <li>Teamwork</li>
             <li>Adaptability</li>
