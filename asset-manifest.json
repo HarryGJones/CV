@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MyCV/static/css/main.33011d3e.css",
+    "main.js": "/MyCV/static/js/main.3ab9873d.js",
+    "static/js/453.e3b6e2f3.chunk.js": "/MyCV/static/js/453.e3b6e2f3.chunk.js",
+    "static/media/Portrait.jpg": "/MyCV/static/media/Portrait.e0f90f3da62be1bf51a8.jpg",
+    "index.html": "/MyCV/index.html",
+    "main.33011d3e.css.map": "/MyCV/static/css/main.33011d3e.css.map",
+    "main.3ab9873d.js.map": "/MyCV/static/js/main.3ab9873d.js.map",
+    "453.e3b6e2f3.chunk.js.map": "/MyCV/static/js/453.e3b6e2f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33011d3e.css",
+    "static/js/main.3ab9873d.js"
+  ]
+}
